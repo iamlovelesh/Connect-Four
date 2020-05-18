@@ -1,0 +1,10 @@
+.playboard button{
+  height: 100px;
+  width: 100px;
+  /*padding: 100px;*/
+  border: 5px solid #2eeaff;
+  background-color: #1c212e;
+  border-radius: 50%;
+  font-size: 100px;
+    margin: 1px;
+}
