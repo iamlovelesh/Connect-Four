@@ -1,5 +1,3 @@
-# Connect-Four
-A Simple project under my course to learn HTML, CSS and jQuery.
 # Getting Started
 This game is a project work under course on HTML, CSS and jQuery. It is for educational purpose and is completely free to use.
 # Requirements
